@@ -11,5 +11,5 @@
 * `changeMainDish` (reassigns value of `mainDish` string)
 * `addSideItems` (adds a string element to the `sideItems` array)
 * `changeDrink` (reassigns value of `drink` string)
-* `ready` (sets value of `isReady` to `true`)
-* `friendDiscount` (reassigns `price` to 0.8 * `price` to give 20% discount)
+* `makeReady` (sets value of `isReady` to `true`)
+* `giveFriendDiscount` (reassigns `price` to 0.8 * `price` to give 20% discount)
