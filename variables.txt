@@ -1,0 +1,17 @@
+var food = "banana";
+var isDelicious = true;
+
+food = "apple";
+
+var num2 = 83;
+var num7 = 4;
+
+var quotient = num7/num2;
+
+var songs = ["Blueberry Hill", "Rockin' Robin", "Heartbreak Hotel"];
+
+songs.shift();
+// console.log(songs);
+
+foodLength = food.length;
+// console.log(foodLength);
