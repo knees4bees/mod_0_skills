@@ -11,5 +11,5 @@
 * `changeMainDish`: `mainDish` = `"chicken"`
 * `addSideItems`: `sideItems` =  `["french fries", "green beans", "peaches"]`
 * `changeDrink`: `drink` = `"tea"`
-* `ready`: `isReady` = `true`
-* `friendDiscount`: `price` = `5.58`
+* `makeReady`: `isReady` = `true`
+* `giveFriendDiscount`: `price` = `5.58`
